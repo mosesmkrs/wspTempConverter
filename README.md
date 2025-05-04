@@ -5,13 +5,6 @@ A SOAP web service that converts between Fahrenheit and Celsius temperatures, wi
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ## Features
 
